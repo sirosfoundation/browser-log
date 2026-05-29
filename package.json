@@ -29,6 +29,7 @@
 		"test:unit": "vitest run"
 	},
 	"devDependencies": {
+		"@biomejs/biome": "^2.4.16",
 		"@changesets/changelog-github": "^0.7.0",
 		"@changesets/cli": "^2.31.0",
 		"dotenv-cli": "^11.0.0",
@@ -36,9 +37,6 @@
 		"tsdown": "^0.22.1",
 		"typescript": "^6.0.3",
 		"vitest": "^4.1.7"
-	},
-	"dependencies": {
-		"@biomejs/biome": "^2.4.16"
 	},
 	"packageManager": "pnpm@10.4.0"
 }

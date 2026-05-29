@@ -7,11 +7,10 @@ settings:
 importers:
 
   .:
-    dependencies:
+    devDependencies:
       '@biomejs/biome':
         specifier: ^2.4.16
         version: 2.4.16
-    devDependencies:
       '@changesets/changelog-github':
         specifier: ^0.7.0
         version: 0.7.0
