@@ -4,5 +4,7 @@
   "initialVersions": {
     "@sirosfoundation/browser-log": "0.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "spotty-geckos-clean"
+  ]
 }
