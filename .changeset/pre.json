@@ -5,6 +5,7 @@
     "@sirosfoundation/browser-log": "0.0.0"
   },
   "changesets": [
+    "dull-chicken-sin",
     "spotty-geckos-clean"
   ]
 }
