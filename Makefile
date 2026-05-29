@@ -50,6 +50,6 @@ lint-fix:
 # Testing
 # ==============================================================================
 
-.PHONY: test-unit
-test-unit:
+.PHONY: test
+test:
 	pnpm test:unit
