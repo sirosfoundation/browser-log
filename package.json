@@ -1,0 +1,40 @@
+{
+	"name": "@sirosfoundation/browser-log",
+	"description": "Pretty browser logs",
+	"version": "0.0.0",
+	"license": "BSD-2-Clause",
+	"type": "module",
+	"main": "./dist/logger.cjs",
+	"module": "./dist/logger.js",
+	"types": "./dist/logger.d.ts",
+	"exports": {
+		".": {
+			"import": "./dist/logger.js",
+			"require": "./dist/logger.cjs",
+			"types": "./dist/logger.d.ts"
+		}
+	},
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"build": "tsdown",
+		"dev": "tsdown --watch",
+		"clean": "rm -rf dist/",
+		"typecheck": "tsc --noEmit",
+		"lint": "biome check src/",
+		"lint:fix": "biome check --write src/",
+		"format": "biome format --write src/",
+		"test": "vitest run",
+		"test:unit": "vitest run"
+	},
+	"devDependencies": {
+		"jsdom": "^29.1.1",
+		"tsdown": "^0.22.1",
+		"typescript": "^6.0.3",
+		"vitest": "^4.1.7"
+	},
+	"dependencies": {
+		"@biomejs/biome": "^2.4.16"
+	}
+}
