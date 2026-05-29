@@ -29,6 +29,8 @@
 		"test:unit": "vitest run"
 	},
 	"devDependencies": {
+		"@changesets/changelog-github": "^0.7.0",
+		"@changesets/cli": "^2.31.0",
 		"jsdom": "^29.1.1",
 		"tsdown": "^0.22.1",
 		"typescript": "^6.0.3",
