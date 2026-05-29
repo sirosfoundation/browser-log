@@ -38,5 +38,6 @@
 	},
 	"dependencies": {
 		"@biomejs/biome": "^2.4.16"
-	}
+	},
+	"packageManager": "pnpm@10.4.0"
 }
