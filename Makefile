@@ -53,3 +53,12 @@ lint-fix:
 .PHONY: test
 test:
 	pnpm test:unit
+
+# ==============================================================================
+# Publishing
+# ==============================================================================
+
+.PHONY: publish
+publish: build
+	pnpm publish -r --access public
+
