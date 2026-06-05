@@ -1,6 +1,6 @@
 {
 	"name": "@sirosfoundation/browser-log",
-	"description": "Pretty browser logs",
+	"description": "Pretty browser logs for browser-based apps",
 	"version": "0.1.0-beta.2",
 	"license": "BSD-2-Clause",
 	"type": "module",
