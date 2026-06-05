@@ -1,5 +1,11 @@
 # @sirosfoundation/browser-log
 
+## 0.1.0-beta.2
+
+### Patch Changes
+
+- [#2](https://github.com/sirosfoundation/browser-log/pull/2) [`3fd6680`](https://github.com/sirosfoundation/browser-log/commit/3fd6680340e82abea48d465362e30d632ea2b7c1) Thanks [@smncd](https://github.com/smncd)! - Add readme file
+
 ## 0.1.0-beta.1
 
 ### Patch Changes
