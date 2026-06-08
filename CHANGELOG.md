@@ -1,5 +1,11 @@
 # @sirosfoundation/browser-log
 
+## 0.1.0-beta.4
+
+### Patch Changes
+
+- [`0c826de`](https://github.com/sirosfoundation/browser-log/commit/0c826de3607757ec8407449ad2113dbd3ab3e293) Thanks [@smncd](https://github.com/smncd)! - re-release
+
 ## 0.1.0-beta.3
 
 ### Patch Changes
