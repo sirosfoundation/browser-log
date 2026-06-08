@@ -5,6 +5,7 @@
     "@sirosfoundation/browser-log": "0.0.0"
   },
   "changesets": [
+    "blue-drinks-drive",
     "dull-chicken-sin",
     "huge-corners-matter",
     "spotty-geckos-clean"
