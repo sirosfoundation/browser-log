@@ -33,9 +33,9 @@
 		"@changesets/changelog-github": "^0.7.0",
 		"@changesets/cli": "^2.31.0",
 		"dotenv-cli": "^11.0.0",
-		"jsdom": "^29.1.1",
+		"jsdom": "^30.0.0",
 		"tsdown": "^0.22.1",
-		"typescript": "^6.0.3",
+		"typescript": "^7.0.2",
 		"vitest": "^4.1.7"
 	},
 	"homepage": "https://github.com/sirosfoundation/browser-log#readme",
