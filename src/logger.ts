@@ -132,5 +132,5 @@ export function jsonToLog(json: unknown): string {
 			.join('\n');
 	};
 
-	return `\n\n${parse(json)}\n\n`;
+	return parse(json);
 }
