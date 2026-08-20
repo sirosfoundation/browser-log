@@ -1,15 +1,4 @@
 {
-  "mode": "pre",
-  "tag": "beta",
-  "initialVersions": {
-    "@sirosfoundation/browser-log": "0.0.0"
-  },
-  "changesets": [
-    "blue-drinks-drive",
-    "dull-chicken-sin",
-    "huge-corners-matter",
-    "huge-socks-swim",
-    "red-crabs-party",
-    "spotty-geckos-clean"
-  ]
+  "mode": "exit",
+  "tag": "beta"
 }
