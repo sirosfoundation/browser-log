@@ -1,5 +1,11 @@
 # @sirosfoundation/browser-log
 
+## 0.1.0-beta.5
+
+### Patch Changes
+
+- [`626eb49`](https://github.com/sirosfoundation/browser-log/commit/626eb491ed5ab95c23cc48551753333363b34ae5) Thanks [@smncd](https://github.com/smncd)! - Remove padding from `jsonToLog()`
+
 ## 0.1.0-beta.4
 
 ### Patch Changes

@@ -1,8 +1,14 @@
 {
 	"name": "@sirosfoundation/browser-log",
 	"description": "Pretty browser logs for browser-based apps",
-	"keywords": ["logger", "browser", "console", "logging", "debug"],
-	"version": "0.1.0-beta.4",
+	"keywords": [
+		"logger",
+		"browser",
+		"console",
+		"logging",
+		"debug"
+	],
+	"version": "0.1.0-beta.5",
 	"license": "BSD-2-Clause",
 	"type": "module",
 	"types": "./dist/logger.d.mts",
