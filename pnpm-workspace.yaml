@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: true
+engineStrict: true
+minimumReleaseAge: 1440
+minimumReleaseAgeExclude:
+  - '@sirosfoundation/*'
