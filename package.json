@@ -41,9 +41,9 @@
 		"@changesets/cli": "^3.0.0",
 		"dotenv-cli": "^11.0.0",
 		"jsdom": "^30.0.1",
-		"tsdown": "^0.22.14",
+		"tsdown": "^0.23.0",
 		"typescript": "^7.0.2",
-		"vitest": "^4.1.11"
+		"vitest": "^5.0.0"
 	},
 	"homepage": "https://github.com/sirosfoundation/browser-log#readme",
 	"repository": "github:sirosfoundation/browser-log",
